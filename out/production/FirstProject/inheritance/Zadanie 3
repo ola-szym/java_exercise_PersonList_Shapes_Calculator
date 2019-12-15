@@ -1,0 +1,5 @@
+Kształty (trójkąt, prostokąt, kwadrat, koło)
+shape - klasa abstrakcyjna
+dla każdego policzyc pole, obwód (w shape)
+
+potestować za pomocą main: parametry w konstruktorze

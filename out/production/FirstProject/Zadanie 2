@@ -1,0 +1,10 @@
+Przy uzyciu mapy: zbiór osób, każda osoba ma swój numer
+klucz to numer
+wartość osoba
+
+ma działać jak kalkulator
+
+osoba ma mieć adres (ulica i miejscowość)
+adres ma być osobną klasą
+
+dodać pole typu/klasy Adress do Person
