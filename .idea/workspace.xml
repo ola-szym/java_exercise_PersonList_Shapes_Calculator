@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b48921-6ec2-4de0-b597-67dd9ad0a1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Adress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subjects/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subjects/enums/CarType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subjects/enums/EnumsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adress.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/Divisibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainZ2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PaymentMethod/PaymentMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/PersonList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/ShapeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie 1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enumy/EnumyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/enumy/TypSamochodu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/inheritance/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/inheritance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/inheritance/Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subjects/inheritance/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Zadanie 3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kalkulator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kalkulator/Listy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kalkulator/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/CarCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/Kolor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/Marka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/RodzajPaliwa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/Skrzynia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/StandardWyposazenia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/samochody/carsCalculator.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,12 +130,6 @@
               <item name="java_exercise3" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_exercise3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shapes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_exercise3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_exercise3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="subjects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -297,7 +251,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13941018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
